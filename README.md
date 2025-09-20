@@ -1,5 +1,4 @@
 # Designing-an-Agentic-AI-System-with-MCP-Integration
-# What?
 
 <img width="418" height="184" alt="image" src="https://github.com/user-attachments/assets/ce673077-847f-428e-8d46-c86e69031a12" />
 
